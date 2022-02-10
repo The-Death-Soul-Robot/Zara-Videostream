@@ -1,18 +1,18 @@
-<p align="center"><a href="https://t.me/marrkmusic">
+<p align="center"><a href="https://t.me/Love_Dear_Comrades">
     <img src="https://te.legra.ph/file/7bdf03c71f848170d24b9.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/marrk85/videostream/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/marrk85/videostream/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/marrk85/videostream"> <img src="https://img.shields.io/github/repo-size/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/marrk85/videostream/commits/main"> <img src="https://img.shields.io/github/last-commit/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/marrk85/videostream/issues"> <img src="https://img.shields.io/github/issues/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/marrk85/videostream/network/members"> <img src="https://img.shields.io/github/forks/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/marrk85/videostream/network/members"> <img src="https://img.shields.io/github/stars/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-<p align="center"><a href="https://t.me/marrkmusic">
+    <a href="https://github.com/The-Death-Soul-Robot/Zara-Videostream/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://app.codacy.com/gh/The-Death-Soul-Robot/Zara-Videostream/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/The-Death-Soul-Robot/Zara-Videostream"> <img src="https://img.shields.io/github/repo-size/The-Death-Soul-Robot/Zara-Videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/The-Death-Soul-Robot/Zara-Videostream/commits/main"> <img src="https://img.shields.io/github/last-commit/The-Death-Soul-Robot/Zara-Videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/The-Death-Soul-Robot/Zara-Videostream/issues"> <img src="https://img.shields.io/github/issues/The-Death-Soul-Robot/Zara-Videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/The-Death-Soul-Robot/Zara-Videostream/network/members"> <img src="https://img.shields.io/github/forks/The-Death-Soul-Robot/Zara-Videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/The-Death-Soul-Robot/Zara-Videostream/network/members"> <img src="https://img.shields.io/github/stars/The-Death-Soul-Robot/Zara-Videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+<p align="center"><a href="https://t.me/Love_Dear_Comrades">
     <img src="https://te.legra.ph/file/56708bcb0025da5dc19c4.jpg"></a></p>
 <p align="center">
 </p>
@@ -21,7 +21,7 @@
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowred)](https://replit.com/@marrk85/genStr) ``Pyrogram``
 
-## ✨ Features
+## 🤞🏻 Features
 - Music & Video stream support
 - MultiChat support
 - Playlist & Queue support
@@ -53,11 +53,11 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/marrk85/videostream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/The-Death-Soul-Robot/Zara-Videostream)
 ## Deploy On Railway
 Fill all variables 
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/marrk85/videostream&envs=ALIVE_NAME,API_HASH,API_ID,ASSISTANT_NAME,BOT_NAME,BOT_TOKEN,BOT_USERNAME,DURATION_LIMIT,GROUP_SUPPORT,OWNER_NAME,SESSION_NAME,SUDO_USERS,UPDATES_CHANNEL)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/The-Death-Soul-Robot/Zara-Videostream&envs=ALIVE_NAME,API_HASH,API_ID,ASSISTANT_NAME,BOT_NAME,BOT_TOKEN,BOT_USERNAME,DURATION_LIMIT,GROUP_SUPPORT,OWNER_NAME,SESSION_NAME,SUDO_USERS,UPDATES_CHANNEL)
 
 ## VPS Deployment 📡
 
@@ -68,7 +68,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/marrk85/videostream # clone the repo.
+git clone https://github.com/The-Death-Soul-Robot/Zara-Videostream # clone the repo.
 cd video-stream
 pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs
@@ -79,8 +79,8 @@ python3 main.py # run the bot.
 # Credits 💖
  [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
-# [IRON ♡](https://t.me/marrk85)
-# [KAkA♠](https://t.me/K_A_k_A_03)
+# [Hussain ♡](https://t.me/The_Death_Soul)
+ 
 
 ### Support & Updates 🎑
-<a href="https://t.me/marrkmusic"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/marrkchannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Love_Dear_Comrades"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ZaraSupport"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
