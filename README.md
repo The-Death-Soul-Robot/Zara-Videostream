@@ -1,7 +1,7 @@
 <p align="center"><a href="https://t.me/Love_Dear_Comrades">
     <img src="https://te.legra.ph/file/8123d3f102c582480e953.jpg"></a></p>
 <p align="center">
-    <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
+    <br><b>ZARA Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
@@ -76,7 +76,7 @@ vim .env # fill up the ENVs (Steps: press i to enter in insert mode then edit th
 python3 main.py # run the bot.
 ```
 
-# Credits 💖
+# Credits 🥂
  [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
 # [♡ Zain Hussain ♡](https://t.me/The_Death_Soul)
