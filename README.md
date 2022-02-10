@@ -1,5 +1,5 @@
 <p align="center"><a href="https://t.me/Love_Dear_Comrades">
-    <img src="https://te.legra.ph/file/7bdf03c71f848170d24b9.jpg"></a></p>
+    <img src="https://te.legra.ph/file/8123d3f102c582480e953.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
 </p>
@@ -13,13 +13,13 @@
     <a href="https://github.com/The-Death-Soul-Robot/Zara-Videostream/network/members"> <img src="https://img.shields.io/github/forks/The-Death-Soul-Robot/Zara-Videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
     <a href="https://github.com/The-Death-Soul-Robot/Zara-Videostream/network/members"> <img src="https://img.shields.io/github/stars/The-Death-Soul-Robot/Zara-Videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 <p align="center"><a href="https://t.me/Love_Dear_Comrades">
-    <img src="https://te.legra.ph/file/56708bcb0025da5dc19c4.jpg"></a></p>
+    <img src="https://te.legra.ph/file/ad86626774492a0d3d255.jpg"></a></p>
 <p align="center">
 </p>
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowred)](https://replit.com/@marrk85/genStr) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowred)](https://replit.com/@The-Death-Soul/Session-Generator#pyproject.toml) ``Pyrogram``
 
 ## 🤞🏻 Features
 - Music & Video stream support
@@ -79,8 +79,8 @@ python3 main.py # run the bot.
 # Credits 💖
  [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
-# [Hussain ♡](https://t.me/The_Death_Soul)
+# [♡ Zain Hussain ♡](https://t.me/The_Death_Soul)
  
 
-### Support & Updates 🎑
+### 🕊️ Support & Updates 🕊️
 <a href="https://t.me/Love_Dear_Comrades"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ZaraSupport"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
